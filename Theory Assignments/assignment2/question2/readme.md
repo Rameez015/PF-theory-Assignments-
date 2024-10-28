@@ -1,1 +1,1 @@
-
+i initially understood that i would have to first initialize an array containing all the letters and then iterate through them while increasing counter as each lowercase is approached. While creating the syntax i got stuck between the loops hence so i created a function and called it in the main during the iteration of loop.
